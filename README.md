@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/Ishanmomin/shiftkeylabs.github.com.png?label=ready&title=Ready)](https://waffle.io/Ishanmomin/shiftkeylabs.github.com)
 # Jekyll-Bootstrap
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
